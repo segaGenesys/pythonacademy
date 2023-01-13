@@ -7,6 +7,7 @@ Python Academy Jan 2023 Directory
 ``` yaml
 author: Vaibhav Bhandari
 author_email: vaibhavb@gmail.com
+author_date: 1/13/2023
 name: Test Your Quotes
 quiz: Guess what the following python string will print 'hello world\"'
 answer: |
