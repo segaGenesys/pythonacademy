@@ -1,8 +1,11 @@
-# author: Carolyn Beatty
-# Python Academy
-# 1/13/2023
-# Quiz: How to change uppercase letters to lowercase in a string: Two options
-# Answer: word.lower() or word.casefold()
-# Explanation: "word" is the variable name that you would like made lower-case
-#   lower() makes the first letter lowercase
-#   casefold() makes every letter in the word lowercase
+ author: Carolyn Beatty
+ author_email: cbeatty1@cnm.edu
+ date: 1/13/2023
+ name: make string lowercase
+ quiz: How to change uppercase letters to lowercase in a string: Two options
+ answer: 
+  word.lower() or word.casefold()
+ explanation: 
+  "word" is the variable name that you would like made lower-case
+  lower() makes the first letter lowercase
+  casefold() makes every letter in the word lowercase
