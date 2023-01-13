@@ -3,5 +3,7 @@ author email: 12345jnguyen@gmail.com
 date: 1/13/2023
 name: test your quotes
 quiz: How do you sort an array alphabetically?
-answer: list.sort()
-explaination: list is the array of works or letters that you want, sort is the built in function that sorts our variables
+answer: |
+list.sort()
+explaination: |
+list is the array of works or letters that you want, sort is the built in function that sorts our variables
