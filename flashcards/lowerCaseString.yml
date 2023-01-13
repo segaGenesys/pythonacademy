@@ -2,9 +2,9 @@
  author_email: cbeatty1@cnm.edu
  author_date: 1/13/2023
  name: make string lowercase
- quiz: How to change uppercase letters to lowercase in a string: Two options
+ quiz: How to change uppercase letters to lowercase in a string: Three options
  answer: |
-  word.lower() or word.casefold()
+  word.lower() or word.casefold() or lowercase()
  explanation: |
   "word" is the variable name that you would like made lower-case
   lower() makes the first letter lowercase
