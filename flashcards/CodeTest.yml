@@ -1,0 +1,12 @@
+author: Moises Cantoran
+author_email: moisescantoran05@gmail.com
+date: 1-13-2023
+name: Simple exercise
+quiz: For i in range(3):
+        print(i)
+answer: |
+      0, 1, 2
+explanation: |
+      If you do need to iterate over a sequence of numbers, the built-in function range() comes in handy. It generates arithmetic progressions.
+source_url: 
+      https://docs.python.org/3/tutorial/controlflow.html
