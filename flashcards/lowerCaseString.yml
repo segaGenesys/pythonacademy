@@ -5,7 +5,7 @@
  quiz: How to change uppercase letters to lowercase in a string: Two options
  answer: |
   word.lower() or word.casefold()
- explanation: | 
+ explanation: |
   "word" is the variable name that you would like made lower-case
   lower() makes the first letter lowercase
   casefold() makes every letter in the word lowercase
