@@ -1,0 +1,9 @@
+author: Jassielle Villicana
+author_email: jassiellevillicana@gmail.com
+author_date: 1/13/2023
+name: lowercase()
+quiz: How do you create a code that treats letters euqally regardless of upper or lowercase?
+answer: |
+  Use lowercase()
+explanation: |
+  Lowercase () turns all the letters lowercase which allows the program to read them equally
